@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/sandbox-org-terraform/AZ-400/_apis/build/status%2FAZ-400-organization.gitapp?branchName=master)](https://dev.azure.com/sandbox-org-terraform/AZ-400/_build/latest?definitionId=3&branchName=master)
